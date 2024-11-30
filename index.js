@@ -28,3 +28,10 @@ function newfeatureAdd(){
 
 
 }
+
+function newfeatureAdd(){
+    console.log('this is a new f');
+    console.log('this is a new feet1');
+
+
+}
