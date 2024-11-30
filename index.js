@@ -19,3 +19,12 @@ function newfeatureAdd(){
 
 
 }
+
+
+
+function newfeatureAdd(){
+    console.log('this is a new feet');
+    console.log('this is a new feet1');
+
+
+}
