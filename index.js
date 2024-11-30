@@ -10,3 +10,9 @@ function sayname(){
 function isabove(){
     return age>=18
 }
+
+
+
+function newfeatureAdd(){
+    console.log('this is a new feet')
+}
