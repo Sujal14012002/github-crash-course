@@ -34,6 +34,8 @@ function newfeatureAdd(){
     console.log('this is a new feet1');
     console.log('this is a new fe1');
     console.log('this is a ne fe1');
+    console.log('this is a ');
+
 
 
 
